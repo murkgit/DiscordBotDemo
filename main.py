@@ -1,5 +1,5 @@
 # Discord bot for Discord servers.
-# Developed by Stalker in August/September 2021.
+# Developed by STALKER in August/September 2021.
 # This is free software, use as you wish.
 # I probably won't maintain this, as I no longer use Discord.
 
@@ -30,7 +30,7 @@ These next steps are all done within the terminal.
 
 5. Go to the folder that WIH.py is in. (Stuck? Look up the cd command how-to guides.)
 
-6. Type in "python WIH.py" or "python3 WIH.py" and hit enter.
+6. Type in "python main.py" or "python3 main.py" for Linux users and hit enter.
 
 Have fun!
 
