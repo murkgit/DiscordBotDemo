@@ -72,7 +72,7 @@ async def on_message(message):
             cat_em.set_image(url=f'{r[0]["url"]}')
             await message.channel.send(embed=cat_em)
     if 'lol' in message.content.lower(): # Whenever you type "lol" with the bot online, it will give you a special reaction and give a normal one for everyone else.
-        if message.author.id == #ur user id here:
+        if message.author.id == #your user ID here#:
             await message.add_reaction(u"\U0001F49C") # The u"gibberish" string is a unicode (?) emoji! You can add custom Discord emojis to this too.
         else:
             await message.add_reaction(random.choice(emoji))
@@ -85,7 +85,7 @@ async def message(ctx, member:discord.User = None, *, reason = None):
         await ctx.channel.send("`No message was sent.`")
         return
     message = reason
-    if ctx.message.author.id == #ur user id here:
+    if ctx.message.author.id == #your user ID here#:
         await member.send(message)
         await ctx.send(f"`{member} has been messaged.`")
 
