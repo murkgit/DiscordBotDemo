@@ -31,4 +31,4 @@ This project is for anyone learning Python who is looking for a good starting po
 
 7. Type in "python main.py" or "python3 main.py" for Linux users and hit enter.
 
-Have fun!
+Have fun! Go fuck yourself :)
