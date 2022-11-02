@@ -3,7 +3,7 @@
 # This is free software, use as you wish.
 # I probably won't maintain this, as I no longer use Discord.
 
-# NOTE: May be incompatible with Discord past 2022.
+# NOTE: May be incompatible with Discord past 2022
 
 import discord
 from discord.ext import commands, tasks
