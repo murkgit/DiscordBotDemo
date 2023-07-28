@@ -1,5 +1,5 @@
 # Discord bot for Discord servers.
-# Developed by Murk in August/September 2021.
+# Developed by me in August/September 2021.
 # This is free software, use as you wish.
 # I probably won't maintain this, as I no longer use Discord.
 
